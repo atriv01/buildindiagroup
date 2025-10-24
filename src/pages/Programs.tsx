@@ -53,7 +53,7 @@ export default function Programs() {
           </div>
         ) : (
           <div className="text-center py-12">
-            <p className="text-gray-600 text-lg">Program information will be updated soon.</p>
+            <p className="text-gray-600 text-lg">Glipmses Of Our Past Programs Below</p>     	    
           </div>
         )}
 

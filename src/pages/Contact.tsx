@@ -39,7 +39,7 @@ export default function Contact() {
                 <Phone className="w-6 h-6 text-orange-600 mr-4 mt-1" />
                 <div>
                   <h3 className="font-semibold">Phone</h3>
-                  <p className="text-gray-600">+91 123 456 7890</p>
+                  <p className="text-gray-600">+91 9810935526</p>
                 </div>
               </div>
               <div className="flex items-start">
@@ -48,6 +48,7 @@ export default function Contact() {
                   <h3 className="font-semibold">Address</h3>
                   <p className="text-gray-600">
                     Build India Group<br />
+                    E-5 LGF Green Park Main
                     New Delhi, India
                   </p>
                 </div>
